@@ -8,3 +8,6 @@ LEDがチカチカと30回する.
 
 delay関数を用いて点滅させた.
 
+# 動画
+
+https://www.youtube.com/watch?v=tct_knbGCLM
